@@ -4,7 +4,7 @@
 
 Cortex is a web app that translates medical imaging exams and diagnostic reports into plain, reassuring language. It explains what an exam is, what the words in a report mean, and helps the patient arrive at their appointment with the right questions already written down.
 
-🔗 **Live app:** [advcslab.northwestu.dev](https://advcslab.northwestu.dev/)
+🔗 **Live app:** [Open Cortex](https://delightful-sand-03639cb1e.5.azurestaticapps.net/)
 
 ![Cortex home page](screenshot.png)
 
